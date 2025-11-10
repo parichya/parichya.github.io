@@ -1,4 +1,4 @@
-# 🌊 Ocean-Integrated Data Center Ecosystem
+# 🌊 HydroLoop-DC
 ### Combining Data Centers, Desalination, and Salt Production for Sustainable Cooling and Water Generation
 
 ---
